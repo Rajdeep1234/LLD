@@ -1,1 +1,4 @@
 
+1. HTTP vs WebSocket
+2. Why Redis
+3. Why cassandra
